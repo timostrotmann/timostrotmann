@@ -2,7 +2,7 @@
 <h4>A tech enthusiast with a special interest in cloud computing and data management.</h4>
 
 
-- 📝 I regularly write articles on my personal blog [strotmann.me](www.strotmann.me)
+- 📝 I regularly write articles on my personal blog [strotmann.me](https://www.strotmann.me)
 
 - 📫 How to reach me **timo@strotmann.me**
 
